@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="weather_icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 212.2 213.85" style="enable-background:new 0 0 212.2 213.85;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#202020;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#202020;}
+	.st2{fill:none;stroke:#202020;stroke-width:7;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		
+			<ellipse transform="matrix(0.8153 -0.5791 0.5791 0.8153 -42.8972 81.3824)" class="st0" cx="106.1" cy="107.92" rx="45.67" ry="45.67"/>
+		<line class="st0" x1="106.1" y1="44.97" x2="106.1" y2="28.5"/>
+		<line class="st0" x1="106.1" y1="44.97" x2="106.1" y2="38.32"/>
+		<line class="st0" x1="74.62" y1="53.4" x2="71.3" y2="47.65"/>
+		<line class="st0" x1="43.15" y1="107.92" x2="36.5" y2="107.92"/>
+		<line class="st0" x1="74.62" y1="162.44" x2="71.3" y2="168.2"/>
+		<line class="st0" x1="137.58" y1="162.44" x2="140.9" y2="168.2"/>
+		<line class="st0" x1="169.06" y1="107.92" x2="175.7" y2="107.92"/>
+		<line class="st0" x1="137.58" y1="53.4" x2="140.9" y2="47.65"/>
+		<line class="st0" x1="51.58" y1="76.45" x2="37.32" y2="68.21"/>
+		<line class="st0" x1="51.58" y1="139.4" x2="37.32" y2="147.63"/>
+		<line class="st0" x1="106.1" y1="170.88" x2="106.1" y2="187.35"/>
+		<line class="st0" x1="160.62" y1="139.4" x2="174.88" y2="147.63"/>
+		<line class="st0" x1="160.62" y1="76.45" x2="174.88" y2="68.21"/>
+	</g>
+</g>
+</svg>
